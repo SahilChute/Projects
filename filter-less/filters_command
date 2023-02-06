@@ -1,0 +1,4 @@
+./filter -g INFILE.bmp OUTFILE.bmp(grayscale filter)
+./filter -s INFILE.bmp OUTFILE.bmp(sepia filter)
+./filter -r INFILE.bmp OUTFILE.bmp(reflect filter)
+./filter -b INFILE.bmp OUTFILE.bmp(blur filter)
