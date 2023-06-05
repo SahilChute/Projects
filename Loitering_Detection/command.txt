@@ -1,0 +1,5 @@
+conda create -n yolov7 python=3.9
+conda activate yolov7 
+pip install -r requirements.txt
+pip install -r requirements_gpu.txt
+python detect.py 
